@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 
-public class PrintStream_java {
+public class PrintStream_ {
     public static void main(String[] args) {
         String data = "Hello Everyone, It's time for lunch!!";
         int timeHour = 1;
