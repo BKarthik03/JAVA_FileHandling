@@ -1,4 +1,4 @@
-package File_Class;
+package CharacterStreams.File_Class;
 
 import java.io.File;
 import java.io.IOException;
